@@ -1,2 +1,3 @@
 # Queue_JS
- Implementation of a queue in JavaScript
+
+Implementation of a queue in JavaScript.
